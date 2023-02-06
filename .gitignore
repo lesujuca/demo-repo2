@@ -1,1 +1,6 @@
 ide-config*
+/config
+*.class
+*.log
+*.jar
+*.zip
