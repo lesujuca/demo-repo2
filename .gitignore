@@ -1,6 +1,10 @@
+#Comentarios
 ide-config*
 /config
 *.class
 *.log
 *.jar
 *.zip
+
+#Ignorar carpeta node_modules de Angular
+/node_modules
